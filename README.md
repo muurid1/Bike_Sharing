@@ -97,7 +97,7 @@ The data shows high activity of the bike sharing service in New York during the 
 
 • the CitiBike ride-sharing services are used as an alternative to public transportation by commuting workers.
 
-##### The two additional visualizations that we would be beneficial for the future:
+##### The two additional visualizations that would be beneficial for the future:
 
 • a visualization that shows the total number of rides per bike in order to know which ones need maintenance.
 
