@@ -93,6 +93,8 @@ The data shows high activity of the bike sharing service in New York during the 
 
 • the bikes are checkout out (on average) 6 - 7 minutes
 
+• bikes trips vary by hour of the day with peak hour at 5 - 6 pm and 7 am
+
 • the CitiBike ride-sharing services are used as an alternative to public transportation by commuting workers.
 
 ##### The two additional visualizations that we would be beneficial for the future:
