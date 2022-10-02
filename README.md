@@ -1,6 +1,13 @@
 # Bike_Sharing
 
 ## Overview of the project
+ 
+The purpose of this project is to create visualizations that will give potential investors a look into the NYC Citibike bike-sharing program in order for them to know that this program in Des Moines is a solid business poposal.
+
+For this analysis, we will be using Pandas to change the "tripduration" column from an integer to a datetime datatype and then, we will be using the converted datatype to create a set of visualizations to:
+• Show the length of time that bikes are checked out for all riders and genders
+• Show the number of bike trips for all riders and genders for each hour of each day of the week
+• Show the number of bike trips for each type of user and gender for each day of the week.
 
 
 ### Resources 
@@ -10,6 +17,8 @@
 • VS Code
 
 • Jupyter Notebook
+
+• Pandas
 
 • Tableau
 
