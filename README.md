@@ -85,5 +85,16 @@ For this analysis, we will be using Pandas to change the "tripduration" column f
 We have created a story using Tableau and wrote a report to describe the outcome of the NYC Citibike.
 Follow this link [Your Link Here](https://public.tableau.com/app/profile/souleymane.ndiaye5852/viz/Citybike_Story/Citibike_Story?publish=yes) to the Tableau story that was created.
  
+The data shows high activity of the bike sharing service in New York during the month of August 2019. We can find some of the highlights listed below:
+
+• the majority of the rides were in the very busy Manhattan area, taken by male users during morning and evening rush hours. 
+
+• the average trip duration graphs shows that younger people are using bikes for longer periods of time
+
+• the bikes are checkout out (on average) 6 - 7 minutes
+
+• the CitiBike ride-sharing services are used as an alternative to public transportation by commuting workers.
+
+
 
 
