@@ -68,6 +68,10 @@
 
 <img width="998" alt="zip_code_top_start_end" src="https://user-images.githubusercontent.com/107282754/193475415-0e998d66-d6e6-454f-9bbb-1a168ff4db72.png">
 
+## Summary
 
+We have created a story using Tableau and wrote a report to describe the outcome of the NYC Citibike.
+Follow this link [(https://public.tableau.com/app/profile/souleymane.ndiaye5852/viz/Citybike_Story/Citibike_Story?publish=yes)]to the Tableau story that was created.
+ 
 
 
