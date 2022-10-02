@@ -71,7 +71,7 @@
 ## Summary
 
 We have created a story using Tableau and wrote a report to describe the outcome of the NYC Citibike.
-Follow this link [(https://public.tableau.com/app/profile/souleymane.ndiaye5852/viz/Citybike_Story/Citibike_Story?publish=yes)]to the Tableau story that was created.
+Follow this link  to the Tableau story that was created.
  
 
 
